@@ -3,9 +3,7 @@ from typing import Any, Iterable, List, Tuple
 
 from typing_extensions import Protocol
 
-import numpy as np
 from collections import defaultdict
-import pdb
 
 # ## Task 1.1
 # Central Difference calculation
